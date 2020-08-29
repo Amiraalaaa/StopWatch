@@ -11,6 +11,6 @@ Time is displayed live on a 4×7 segment.
 * 4×7 segment display
 * 7 segment BCD display driver
 
-# simulation
+# Simulation
 ![Screenshot 08-29-2020 21 33 05](https://user-images.githubusercontent.com/52362039/91644860-5f8b6980-ea40-11ea-9a11-dfd670db3acc.png)
 ![Screenshot 08-29-2020 21 38 20](https://user-images.githubusercontent.com/52362039/91644862-60bc9680-ea40-11ea-9c39-c552d559af36.png)
